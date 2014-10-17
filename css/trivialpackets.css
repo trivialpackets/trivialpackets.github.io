@@ -1,6 +1,7 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  background-image: url('../images/bg.gif');
 }
 
 .theme-dropdown .dropdown-menu {
@@ -62,4 +63,14 @@ footer {
   .jumbotron-inverse .h1 {
     font-size: 63px;
   }
+}
+
+.navbar-brand img {
+  height: 24px;
+  width: 24px;
+}
+
+.navbar-brand, h1, h2, h3, h4 {
+  font-family: 'Lobster', cursive;
+  color: #33aaff;
 }
