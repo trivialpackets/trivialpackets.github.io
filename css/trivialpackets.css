@@ -16,3 +16,50 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+footer {
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+.jumbotron-inverse {
+  padding: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #B2B28F;
+}
+.jumbotron-inverse h1,
+.jumbotron-inverse .h1 {
+  color: inherit;
+}
+.jumbotron-inverse p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
+.jumbotron-inverse > hr {
+  border-top-color: #d5d5d5;
+}
+.container .jumbotron-inverse {
+  border-radius: 6px;
+}
+.jumbotron-inverse .container {
+  max-width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .jumbotron-inverse {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .container .jumbotron-inverse {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .jumbotron-inverse h1,
+  .jumbotron-inverse .h1 {
+    font-size: 63px;
+  }
+}
