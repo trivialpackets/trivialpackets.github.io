@@ -7,7 +7,11 @@ body {
   width: 24px;
 }
 
-.navbar-brand, h1, h2, h3, h4 {
-  font-family: 'Lobster', cursive;
-  color: #33aaff;
+.bluelobster {
+    font-family: 'Lobster', cursive;
+    color: #33aaff;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
 }
