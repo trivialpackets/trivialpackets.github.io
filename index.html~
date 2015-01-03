@@ -146,17 +146,8 @@
             <p><a class="btn btn-default" href="http://blog.trivialpackets.com" role="button" target="_blank">TrivialPackets Blog &raquo;</a></p>
           </div>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          
-          <div class="well">
-            <img class="img-circle" src="./images/github.png" alt="Github" style="width: 140px; height: 140px;">
-            <br /><br />
-            <h2 class="bluelobster">Github Repository</h2><br />
-            <p>My public github repository.  Links to public projects that I'm working on.  The portfolio is a bit light, as I'm just getting started, but be prepared to be wowed as time goes on.</p>
-            <p><a class="btn btn-default" href="https://github.com/trivialpackets" role="button" target="_blank">Github &raquo;</a></p>
-          </div>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
+	
+	<div class="col-lg-4">
           
           <div class="well">
             <img class="img-circle" src="./images/twitter.png" alt="Twitter" style="width: 140px; height: 140px;">
@@ -166,6 +157,18 @@
             <p><a class="btn btn-default" href="https://twitter.com/trivialpackets" role="button" target="_blank">Twitter &raquo;</a></p>
           </div>
         </div><!-- /.col-lg-4 -->
+        
+	<div class="col-lg-4">
+          
+          <div class="well">
+            <img class="img-circle" src="./images/github.png" alt="Github" style="width: 140px; height: 140px;">
+            <br /><br />
+            <h2 class="bluelobster">Github Repository</h2><br />
+            <p>My public github repository.  Links to public projects that I'm working on.  The portfolio is a bit light, as I'm just getting started, but be prepared to be wowed as time goes on.</p>
+            <p><a class="btn btn-default" href="https://github.com/trivialpackets" role="button" target="_blank">Github &raquo;</a></p>
+          </div>
+        </div><!-- /.col-lg-4 -->
+        
       </div><!-- /.row -->
 
 
